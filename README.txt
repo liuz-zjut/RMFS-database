@@ -1,0 +1,4 @@
+The file "orders" contains the order information used in the experiments, where each row represents an order and each number denotes an item type.
+The file "pod_item_type" contains the item types stored on each pod in systems with different configurations, with each row corresponding to a pod and each number indicating an item type.
+The file "initial_pod_item_num" stores the initial number of items in each storage slot on every pod for different system configurations, where each row represents a pod and each number denotes the item quantity.
+The file "pod_location" specifies the position of each pod in systems with different configurations.
